@@ -1,0 +1,793 @@
+
+
+.home {
+  width               : 100%;
+  min-width           : 1024px;
+  height              : 100vh;
+  min-height          : 3029px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.home .header {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 639px;
+  width               : 1024px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home .header .mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 639px;
+  width               : 1024px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home .header .bled18992641920 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 640px;
+  width               : 1135px;
+  position            : absolute;
+  margin              : 0;
+  left                : -26px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home .header .safespace {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 289px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 363px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 12.0px;
+  line-height         : 45.0px;
+}
+.home .header .group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 555px;
+  height              : 66px;
+  width               : 17px;
+  position            : absolute;
+  margin              : 0;
+  left                : 504px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home .header .group .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 58px;
+  height              : 8px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home .header .group .line2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 65px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home .header .group .line1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 58px;
+  height              : 8px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home .header .menu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 60px;
+  height              : 24px;
+  width               : 34px;
+  position            : absolute;
+  margin              : 0;
+  left                : 915px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home .description {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 637px;
+  height              : 688px;
+  width               : 1029px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home .description .description1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 688px;
+  width               : 1029px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home .ux {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1325px;
+  height              : 1426px;
+  width               : 1024px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home .ux .forest {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 564px;
+  width               : 1024px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home .ux .forest .mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 564px;
+  width               : 1024px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home .ux .forest .forest4384321920 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 777px;
+  width               : 1165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home .ux .rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 89px;
+  height              : 844px;
+  width               : 817px;
+  position            : absolute;
+  margin              : 0;
+  left                : 207px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home .ux .titles {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 154px;
+  height              : 310px;
+  width               : 271px;
+  position            : absolute;
+  margin              : 0;
+  left                : 688px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home .ux .titles .howdoesitwork {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 273px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 48.0px;
+  color               : rgba(173, 196, 91, 1.0);
+  text-align          : left;
+  line-height         : 45px;
+}
+.home .ux .titles .howdoesitwork .span1 {
+  text-align          : justify;
+  line-height         : 40.0px;
+}
+.home .ux .titles .howdoesitwork .span2 {
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 30.0px;
+}
+.home .ux .titles .physicalmentaland {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 107px;
+  height              : auto;
+  width               : 273px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 26.0px;
+  color               : rgba(68, 72, 51, 1.0);
+  text-align          : left;
+  line-height         : 25px;
+}
+.home .ux .titles .physicalmentaland .span1 {
+  text-align          : justify;
+  line-height         : 25.0px;
+}
+.home .ux .titles .physicalmentaland .span2 {
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 20.0px;
+}
+.home .ux .vectorwoman {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1007px;
+  height              : 419px;
+  width               : 382px;
+  position            : absolute;
+  margin              : 0;
+  left                : 89px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home .ux .thistreatmenthasb {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 154px;
+  height              : auto;
+  width               : 359px;
+  position            : absolute;
+  margin              : 0;
+  left                : 259px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.home .ux .introductoryperiod {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 394px;
+  height              : auto;
+  width               : 359px;
+  position            : absolute;
+  margin              : 0;
+  left                : 259px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.home .ux .introductoryperiod .span1 {
+  text-align          : justify;
+}
+.home .ux .introductoryperiod .span2 {
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  text-align          : justify;
+}
+.home .ux .posttreatmentafter {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1142px;
+  height              : auto;
+  width               : 359px;
+  position            : absolute;
+  margin              : 0;
+  left                : 509px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.home .ux .posttreatmentafter .span1 {
+  text-align          : justify;
+}
+.home .ux .posttreatmentafter .span2 {
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  text-align          : justify;
+}
+.home .ux .a510minutesofexpo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 652px;
+  height              : auto;
+  width               : 273px;
+  position            : absolute;
+  margin              : 0;
+  left                : 688px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.home .ux .focusbased {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 911px;
+  height              : auto;
+  width               : 178px;
+  position            : absolute;
+  margin              : 0;
+  left                : 508px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.home .ux .sensorial {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 802px;
+  height              : auto;
+  width               : 178px;
+  position            : absolute;
+  margin              : 0;
+  left                : 508px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.home .ux .timelimited {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 694px;
+  height              : auto;
+  width               : 178px;
+  position            : absolute;
+  margin              : 0;
+  left                : 508px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.home .ux .visualisationtreatm {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 619px;
+  height              : auto;
+  width               : 359px;
+  position            : absolute;
+  margin              : 0;
+  left                : 89px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.home .ux .visualisationtreatm .span1 {
+  text-align          : justify;
+}
+.home .ux .visualisationtreatm .span2 {
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  text-align          : justify;
+}
+.home .ux .visualisationtreatm .span3 {
+  color               : rgba(173, 196, 91, 1.0);
+  text-align          : justify;
+}
+.home .ux .visualisationtreatm .span4 {
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  text-align          : justify;
+}
+.home .ux .visualisationtreatm .span5 {
+  color               : rgba(177, 197, 34, 1.0);
+  text-align          : justify;
+}
+.home .ux .visualisationtreatm .span6 {
+  color               : rgba(175, 196, 70, 1.0);
+  text-align          : justify;
+}
+.home .ux .visualisationtreatm .span7 {
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  text-align          : justify;
+}
+.home .ux .visualisationtreatm .span8 {
+  color               : rgba(177, 197, 34, 1.0);
+  text-align          : justify;
+}
+.home .ux .visualisationtreatm .span9 {
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  text-align          : justify;
+}
+.home .ux .group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 637px;
+  height              : 266px;
+  width               : 51px;
+  position            : absolute;
+  margin              : 0;
+  left                : 572px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home .ux .group .cameralens {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 215px;
+  height              : 51px;
+  width               : 51px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home .ux .group .brain {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 108px;
+  height              : 47px;
+  width               : 51px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home .ux .group .timeleft {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 47px;
+  width               : 51px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home .footer {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2751px;
+  height              : 277px;
+  width               : 1024px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home .footer .rectangle {
+  background-color    : rgba(73, 73, 73, 1.0);
+  top                 : 0px;
+  height              : 277px;
+  width               : 1024px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home .footer .group3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 70px;
+  height              : 137px;
+  width               : 614px;
+  position            : absolute;
+  margin              : 0;
+  left                : 200px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.home .footer .group3 .homedescriptionhow {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 139px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.home .footer .group3 .homedescriptionhow .span1 {
+  text-align          : justify;
+}
+.home .footer .group3 .homedescriptionhow .span2 {
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  text-align          : justify;
+}
+.home .footer .group3 .homedescriptionhow .span3 {
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  text-align          : justify;
+}
+.home .footer .group3 .aboutvrtreatmentv {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 139px;
+  position            : absolute;
+  margin              : 0;
+  left                : 159px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.home .footer .group3 .aboutvrtreatmentv .span1 {
+  text-align          : justify;
+}
+.home .footer .group3 .aboutvrtreatmentv .span2 {
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  text-align          : justify;
+}
+.home .footer .group3 .aboutvrtreatmentv .span3 {
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  text-align          : justify;
+}
+.home .footer .group3 .questionnairedemot {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 139px;
+  position            : absolute;
+  margin              : 0;
+  left                : 318px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.home .footer .group3 .questionnairedemot .span1 {
+  text-align          : justify;
+}
+.home .footer .group3 .questionnairedemot .span2 {
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  text-align          : justify;
+}
+.home .footer .group3 .questionnairedemot .span3 {
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  text-align          : justify;
+}
+.home .footer .group3 .referencesvrstudy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 139px;
+  position            : absolute;
+  margin              : 0;
+  left                : 477px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.home .footer .group3 .referencesvrstudy .span1 {
+  text-align          : justify;
+}
+.home .footer .group3 .referencesvrstudy .span2 {
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  text-align          : justify;
+}
+.home .footer .group3 .referencesvrstudy .span3 {
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  text-align          : justify;
+}
+.home .footer .thisiswebsitebelo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 246px;
+  height              : auto;
+  width               : 873px;
+  position            : absolute;
+  margin              : 0;
+  left                : 74px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 10.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.home .footer .thisiswebsitebelo .span1 {
+  text-align          : justify;
+}
+.home .footer .thisiswebsitebelo .span2 {
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  text-align          : justify;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+
+  {
+      opacity: 0;
+    }
+
+
+  100%
+
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+
+  {
+      opacity: 0;
+    }
+
+
+  100%
+
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+
+  {
+      opacity: 0;
+    }
+
+
+  100%
+
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+
+  {
+      opacity: 0;
+    }
+
+
+  100%
+
+  {
+      opacity: 1;
+    }
+}

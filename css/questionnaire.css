@@ -1,0 +1,1536 @@
+
+
+.questionnaire {
+  width               : 100%;
+  min-width           : 1024px;
+  height              : 100vh;
+  min-height          : 3820px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.questionnaire .footer {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3543px;
+  height              : 277px;
+  width               : 1024px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.questionnaire .footer .rectangle {
+  background-color    : rgba(73, 73, 73, 1.0);
+  top                 : 0px;
+  height              : 277px;
+  width               : 1024px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.questionnaire .footer .group3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 70px;
+  height              : 137px;
+  width               : 614px;
+  position            : absolute;
+  margin              : 0;
+  left                : 200px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.questionnaire .footer .group3 .homedescriptionhow {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 139px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.questionnaire .footer .group3 .homedescriptionhow .span1 {
+  text-align          : justify;
+}
+.questionnaire .footer .group3 .homedescriptionhow .span2 {
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  text-align          : justify;
+}
+.questionnaire .footer .group3 .homedescriptionhow .span3 {
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  text-align          : justify;
+}
+.questionnaire .footer .group3 .aboutvrtreatmentv {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 139px;
+  position            : absolute;
+  margin              : 0;
+  left                : 159px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.questionnaire .footer .group3 .aboutvrtreatmentv .span1 {
+  text-align          : justify;
+}
+.questionnaire .footer .group3 .aboutvrtreatmentv .span2 {
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  text-align          : justify;
+}
+.questionnaire .footer .group3 .aboutvrtreatmentv .span3 {
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  text-align          : justify;
+}
+.questionnaire .footer .group3 .questionnairedemot {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 139px;
+  position            : absolute;
+  margin              : 0;
+  left                : 318px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.questionnaire .footer .group3 .questionnairedemot .span1 {
+  text-align          : justify;
+}
+.questionnaire .footer .group3 .questionnairedemot .span2 {
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  text-align          : justify;
+}
+.questionnaire .footer .group3 .questionnairedemot .span3 {
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  text-align          : justify;
+}
+.questionnaire .footer .group3 .referencesvrstudy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 139px;
+  position            : absolute;
+  margin              : 0;
+  left                : 477px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.questionnaire .footer .group3 .referencesvrstudy .span1 {
+  text-align          : justify;
+}
+.questionnaire .footer .group3 .referencesvrstudy .span2 {
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  text-align          : justify;
+}
+.questionnaire .footer .group3 .referencesvrstudy .span3 {
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  text-align          : justify;
+}
+.questionnaire .footer .thiswebsitebelongs {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 246px;
+  height              : auto;
+  width               : 873px;
+  position            : absolute;
+  margin              : 0;
+  left                : 77px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 10.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.questionnaire .footer .thiswebsitebelongs .span1 {
+  text-align          : justify;
+}
+.questionnaire .footer .thiswebsitebelongs .span2 {
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  text-align          : justify;
+}
+.questionnaire .header {
+  background-color    : rgba(252, 214, 151, 1.0);
+  top                 : 0px;
+  height              : 406px;
+  width               : 1024px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.questionnaire .header .mask {
+  background-color    : rgba(252, 214, 151, 1.0);
+  top                 : 0px;
+  height              : 406px;
+  width               : 1024px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.questionnaire .header .group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 59px;
+  height              : 26px;
+  width               : 38px;
+  position            : absolute;
+  margin              : 0;
+  left                : 913px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.questionnaire .header .group .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 4px;
+  width               : 38px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.questionnaire .header .group .line1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : 4px;
+  width               : 38px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.questionnaire .header .group .line2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 22px;
+  height              : 4px;
+  width               : 38px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.questionnaire .header .questionnaire1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 180px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 309px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 12.0px;
+  line-height         : 45.0px;
+}
+.questionnaire .mockuplaptop {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 783px;
+  height              : 398px;
+  width               : 899px;
+  position            : absolute;
+  margin              : 0;
+  left                : 61px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.questionnaire .mockuplaptop .mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 398px;
+  width               : 899px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.questionnaire .mockuplaptop .mockuplaptop1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -206px;
+  height              : 606px;
+  width               : 909px;
+  position            : absolute;
+  margin              : 0;
+  left                : -6px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.questionnaire .questions {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 502px;
+  height              : 1676px;
+  width               : 903px;
+  position            : absolute;
+  margin              : 0;
+  left                : 61px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.questionnaire .questions .thisprojecthasbee {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 616px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.questionnaire .questions .duetothecomplexit {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1492px;
+  height              : auto;
+  width               : 572px;
+  position            : absolute;
+  margin              : 0;
+  left                : 318px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.questionnaire .questions .a1whichtypeofdes {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 845px;
+  height              : auto;
+  width               : 410px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.questionnaire .questions .a1whichtypeofdes .span1 {
+  text-align          : justify;
+}
+.questionnaire .questions .a1whichtypeofdes .span2 {
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  text-align          : justify;
+}
+.questionnaire .questions .a1whichtypeofdes .span3 {
+  text-align          : justify;
+}
+.questionnaire .questions .a1whichtypeofdes .span4 {
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  text-align          : justify;
+}
+.questionnaire .questions .a1whichtypeofdes .span5 {
+  text-align          : justify;
+}
+.questionnaire .questions .a1whichtypeofdes .span6 {
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  text-align          : justify;
+}
+.questionnaire .questions .a1whichtypeofdes .span7 {
+  text-align          : justify;
+}
+.questionnaire .questions .a1whichtypeofdes .span8 {
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  text-align          : justify;
+}
+.questionnaire .questions .a1whichtypeofdes .span9 {
+  text-align          : justify;
+}
+.questionnaire .questions .a5whicharethecol {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 845px;
+  height              : auto;
+  width               : 400px;
+  position            : absolute;
+  margin              : 0;
+  left                : 490px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.questionnaire .questions .a5whicharethecol .span1 {
+  text-align          : justify;
+}
+.questionnaire .questions .a5whicharethecol .span2 {
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  text-align          : justify;
+}
+.questionnaire .questions .a5whicharethecol .span3 {
+  text-align          : justify;
+}
+.questionnaire .questions .a5whicharethecol .span4 {
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  text-align          : justify;
+}
+.questionnaire .questions .a5whicharethecol .span5 {
+  text-align          : justify;
+}
+.questionnaire .questions .a5whicharethecol .span6 {
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  text-align          : justify;
+}
+.questionnaire .questions .questions1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 752px;
+  height              : auto;
+  width               : 337px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 48.0px;
+  color               : rgba(252, 214, 151, 1.0);
+  text-align          : left;
+  line-height         : 14.0px;
+}
+.questionnaire .questions .questions1 .span1 {
+  text-align          : justify;
+  line-height         : 40.0px;
+}
+.questionnaire .questions .questions1 .span2 {
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 40.0px;
+}
+.questionnaire .questions .questions1 .span3 {
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 40.0px;
+}
+.questionnaire .scenarios {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2241px;
+  height              : 1236px;
+  width               : 897px;
+  position            : absolute;
+  margin              : 0;
+  left                : 61px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.questionnaire .scenarios .scenarios1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : auto;
+  width               : 337px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 48.0px;
+  color               : rgba(252, 214, 151, 1.0);
+  text-align          : left;
+  line-height         : 14.0px;
+}
+.questionnaire .scenarios .scenarios1 .span1 {
+  text-align          : justify;
+  line-height         : 40.0px;
+}
+.questionnaire .scenarios .scenarios1 .span2 {
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 40.0px;
+}
+.questionnaire .scenarios .scenarios1 .span3 {
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 40.0px;
+}
+.questionnaire .scenarios .beachday {
+  background-color    : rgba(86, 86, 86, 1.0);
+  top                 : 104px;
+  height              : 151px;
+  width               : 267px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.questionnaire .scenarios .beachday .mask {
+  background-color    : rgba(86, 86, 86, 1.0);
+  top                 : 0px;
+  height              : 151px;
+  width               : 267px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.questionnaire .scenarios .beachday .beachday2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -4px;
+  height              : 166px;
+  width               : 292px;
+  position            : absolute;
+  margin              : 0;
+  left                : -11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+}
+.questionnaire .scenarios .beachday .triangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 54px;
+  height              : 43px;
+  width               : 52px;
+  position            : absolute;
+  margin              : 0;
+  left                : 108px;
+  -ms-transform       : rotate(-270deg); /* IE 9 */
+  -webkit-transform   : rotate(-270deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-270deg);
+}
+.questionnaire .scenarios .beachnight {
+  background-color    : rgba(86, 86, 86, 1.0);
+  top                 : 104px;
+  height              : 151px;
+  width               : 267px;
+  position            : absolute;
+  margin              : 0;
+  left                : 315px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.questionnaire .scenarios .beachnight .mask {
+  background-color    : rgba(86, 86, 86, 1.0);
+  top                 : 0px;
+  height              : 151px;
+  width               : 267px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.questionnaire .scenarios .beachnight .beachnight2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -2px;
+  height              : 160px;
+  width               : 297px;
+  position            : absolute;
+  margin              : 0;
+  left                : -15px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+}
+.questionnaire .scenarios .beachnight .triangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 54px;
+  height              : 43px;
+  width               : 52px;
+  position            : absolute;
+  margin              : 0;
+  left                : 108px;
+  -ms-transform       : rotate(-270deg); /* IE 9 */
+  -webkit-transform   : rotate(-270deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-270deg);
+}
+.questionnaire .scenarios .beachdusk {
+  background-color    : rgba(86, 86, 86, 1.0);
+  top                 : 104px;
+  height              : 151px;
+  width               : 267px;
+  position            : absolute;
+  margin              : 0;
+  left                : 630px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.questionnaire .scenarios .beachdusk .mask {
+  background-color    : rgba(86, 86, 86, 1.0);
+  top                 : 0px;
+  height              : 151px;
+  width               : 267px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.questionnaire .scenarios .beachdusk .beachdusk2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -8px;
+  height              : 166px;
+  width               : 267px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+}
+.questionnaire .scenarios .beachdusk .triangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 52px;
+  height              : 43px;
+  width               : 52px;
+  position            : absolute;
+  margin              : 0;
+  left                : 108px;
+  -ms-transform       : rotate(-270deg); /* IE 9 */
+  -webkit-transform   : rotate(-270deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-270deg);
+}
+.questionnaire .scenarios .beachday1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 275px;
+  height              : auto;
+  width               : 269px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.questionnaire .scenarios .beachnight1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 275px;
+  height              : auto;
+  width               : 269px;
+  position            : absolute;
+  margin              : 0;
+  left                : 314px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.questionnaire .scenarios .beachdusk1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 275px;
+  height              : auto;
+  width               : 269px;
+  position            : absolute;
+  margin              : 0;
+  left                : 629px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.questionnaire .scenarios .forestriver {
+  background-color    : rgba(86, 86, 86, 1.0);
+  top                 : 349px;
+  height              : 151px;
+  width               : 267px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.questionnaire .scenarios .forestriver .mask {
+  background-color    : rgba(86, 86, 86, 1.0);
+  top                 : 0px;
+  height              : 151px;
+  width               : 267px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.questionnaire .scenarios .forestriver .forestriver2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -10px;
+  height              : 169px;
+  width               : 272px;
+  position            : absolute;
+  margin              : 0;
+  left                : -5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+}
+.questionnaire .scenarios .forestriver .triangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 53px;
+  height              : 43px;
+  width               : 52px;
+  position            : absolute;
+  margin              : 0;
+  left                : 108px;
+  -ms-transform       : rotate(-270deg); /* IE 9 */
+  -webkit-transform   : rotate(-270deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-270deg);
+}
+.questionnaire .scenarios .forest {
+  background-color    : rgba(86, 86, 86, 1.0);
+  top                 : 349px;
+  height              : 151px;
+  width               : 267px;
+  position            : absolute;
+  margin              : 0;
+  left                : 315px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.questionnaire .scenarios .forest .mask {
+  background-color    : rgba(86, 86, 86, 1.0);
+  top                 : 0px;
+  height              : 151px;
+  width               : 267px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.questionnaire .scenarios .forest .forest2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -12px;
+  height              : 178px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : -19px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.7;
+}
+.questionnaire .scenarios .forest .triangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 53px;
+  height              : 43px;
+  width               : 52px;
+  position            : absolute;
+  margin              : 0;
+  left                : 108px;
+  -ms-transform       : rotate(-270deg); /* IE 9 */
+  -webkit-transform   : rotate(-270deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-270deg);
+}
+.questionnaire .scenarios .garden {
+  background-color    : rgba(86, 86, 86, 1.0);
+  top                 : 349px;
+  height              : 151px;
+  width               : 267px;
+  position            : absolute;
+  margin              : 0;
+  left                : 630px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.questionnaire .scenarios .garden .mask {
+  background-color    : rgba(86, 86, 86, 1.0);
+  top                 : 0px;
+  height              : 151px;
+  width               : 267px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.questionnaire .scenarios .garden .garden2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -7px;
+  height              : 171px;
+  width               : 311px;
+  position            : absolute;
+  margin              : 0;
+  left                : -24px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+}
+.questionnaire .scenarios .garden .triangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 53px;
+  height              : 43px;
+  width               : 52px;
+  position            : absolute;
+  margin              : 0;
+  left                : 108px;
+  -ms-transform       : rotate(-270deg); /* IE 9 */
+  -webkit-transform   : rotate(-270deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-270deg);
+}
+.questionnaire .scenarios .forestriver1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 520px;
+  height              : auto;
+  width               : 269px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.questionnaire .scenarios .forest1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 520px;
+  height              : auto;
+  width               : 269px;
+  position            : absolute;
+  margin              : 0;
+  left                : 314px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.questionnaire .scenarios .garden1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 520px;
+  height              : auto;
+  width               : 269px;
+  position            : absolute;
+  margin              : 0;
+  left                : 629px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.questionnaire .scenarios .landscapesea {
+  background-color    : rgba(86, 86, 86, 1.0);
+  top                 : 584px;
+  height              : 151px;
+  width               : 267px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.questionnaire .scenarios .landscapesea .mask {
+  background-color    : rgba(86, 86, 86, 1.0);
+  top                 : 0px;
+  height              : 151px;
+  width               : 267px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.questionnaire .scenarios .landscapesea .landscapesea2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -35px;
+  height              : 192px;
+  width               : 308px;
+  position            : absolute;
+  margin              : 0;
+  left                : -18px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+}
+.questionnaire .scenarios .landscapesea .triangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 54px;
+  height              : 43px;
+  width               : 52px;
+  position            : absolute;
+  margin              : 0;
+  left                : 108px;
+  -ms-transform       : rotate(-270deg); /* IE 9 */
+  -webkit-transform   : rotate(-270deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-270deg);
+}
+.questionnaire .scenarios .lanscapemountain {
+  background-color    : rgba(86, 86, 86, 1.0);
+  top                 : 584px;
+  height              : 151px;
+  width               : 267px;
+  position            : absolute;
+  margin              : 0;
+  left                : 315px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.questionnaire .scenarios .lanscapemountain .mask {
+  background-color    : rgba(86, 86, 86, 1.0);
+  top                 : 0px;
+  height              : 151px;
+  width               : 267px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.questionnaire .scenarios .lanscapemountain .lanscapemountain1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -11px;
+  height              : 174px;
+  width               : 276px;
+  position            : absolute;
+  margin              : 0;
+  left                : -2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+}
+.questionnaire .scenarios .lanscapemountain .triangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 54px;
+  height              : 43px;
+  width               : 52px;
+  position            : absolute;
+  margin              : 0;
+  left                : 108px;
+  -ms-transform       : rotate(-270deg); /* IE 9 */
+  -webkit-transform   : rotate(-270deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-270deg);
+}
+.questionnaire .scenarios .landscapesnow {
+  background-color    : rgba(86, 86, 86, 1.0);
+  top                 : 584px;
+  height              : 151px;
+  width               : 267px;
+  position            : absolute;
+  margin              : 0;
+  left                : 630px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.questionnaire .scenarios .landscapesnow .mask {
+  background-color    : rgba(86, 86, 86, 1.0);
+  top                 : 0px;
+  height              : 151px;
+  width               : 267px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.questionnaire .scenarios .landscapesnow .landscapesnow2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -18px;
+  height              : 178px;
+  width               : 284px;
+  position            : absolute;
+  margin              : 0;
+  left                : -8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+}
+.questionnaire .scenarios .landscapesnow .triangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 54px;
+  height              : 43px;
+  width               : 52px;
+  position            : absolute;
+  margin              : 0;
+  left                : 108px;
+  -ms-transform       : rotate(-270deg); /* IE 9 */
+  -webkit-transform   : rotate(-270deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-270deg);
+}
+.questionnaire .scenarios .landscapesea1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 755px;
+  height              : auto;
+  width               : 269px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.questionnaire .scenarios .landscapemountain {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 755px;
+  height              : auto;
+  width               : 269px;
+  position            : absolute;
+  margin              : 0;
+  left                : 314px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.questionnaire .scenarios .landscapesnow1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 755px;
+  height              : auto;
+  width               : 269px;
+  position            : absolute;
+  margin              : 0;
+  left                : 629px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.questionnaire .scenarios .mountain {
+  background-color    : rgba(86, 86, 86, 1.0);
+  top                 : 807px;
+  height              : 151px;
+  width               : 267px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.questionnaire .scenarios .mountain .mask {
+  background-color    : rgba(86, 86, 86, 1.0);
+  top                 : 0px;
+  height              : 151px;
+  width               : 267px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.questionnaire .scenarios .mountain .mountain2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -23px;
+  height              : 180px;
+  width               : 288px;
+  position            : absolute;
+  margin              : 0;
+  left                : -8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+}
+.questionnaire .scenarios .mountain .triangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 54px;
+  height              : 43px;
+  width               : 52px;
+  position            : absolute;
+  margin              : 0;
+  left                : 108px;
+  -ms-transform       : rotate(-270deg); /* IE 9 */
+  -webkit-transform   : rotate(-270deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-270deg);
+}
+.questionnaire .scenarios .mountainsnow {
+  background-color    : rgba(86, 86, 86, 1.0);
+  top                 : 807px;
+  height              : 151px;
+  width               : 267px;
+  position            : absolute;
+  margin              : 0;
+  left                : 315px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.questionnaire .scenarios .mountainsnow .mask {
+  background-color    : rgba(86, 86, 86, 1.0);
+  top                 : 0px;
+  height              : 151px;
+  width               : 267px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.questionnaire .scenarios .mountainsnow .mountainsnow2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -13px;
+  height              : 180px;
+  width               : 288px;
+  position            : absolute;
+  margin              : 0;
+  left                : -12px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.questionnaire .scenarios .mountainsnow .triangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 54px;
+  height              : 43px;
+  width               : 52px;
+  position            : absolute;
+  margin              : 0;
+  left                : 108px;
+  -ms-transform       : rotate(-270deg); /* IE 9 */
+  -webkit-transform   : rotate(-270deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-270deg);
+}
+.questionnaire .scenarios .northernlights {
+  background-color    : rgba(86, 86, 86, 1.0);
+  top                 : 807px;
+  height              : 151px;
+  width               : 267px;
+  position            : absolute;
+  margin              : 0;
+  left                : 630px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.questionnaire .scenarios .northernlights .mask {
+  background-color    : rgba(86, 86, 86, 1.0);
+  top                 : 0px;
+  height              : 151px;
+  width               : 267px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.questionnaire .scenarios .northernlights .northernlights2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -17px;
+  height              : 178px;
+  width               : 284px;
+  position            : absolute;
+  margin              : 0;
+  left                : -11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+}
+.questionnaire .scenarios .northernlights .triangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 54px;
+  height              : 43px;
+  width               : 52px;
+  position            : absolute;
+  margin              : 0;
+  left                : 108px;
+  -ms-transform       : rotate(-270deg); /* IE 9 */
+  -webkit-transform   : rotate(-270deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-270deg);
+}
+.questionnaire .scenarios .underwater {
+  background-color    : rgba(86, 86, 86, 1.0);
+  top                 : 1042px;
+  height              : 151px;
+  width               : 267px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.questionnaire .scenarios .underwater .mask {
+  background-color    : rgba(86, 86, 86, 1.0);
+  top                 : 0px;
+  height              : 151px;
+  width               : 267px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.questionnaire .scenarios .underwater .underwater2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -12px;
+  height              : 167px;
+  width               : 296px;
+  position            : absolute;
+  margin              : 0;
+  left                : -15px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+}
+.questionnaire .scenarios .underwater .triangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 54px;
+  height              : 43px;
+  width               : 52px;
+  position            : absolute;
+  margin              : 0;
+  left                : 108px;
+  -ms-transform       : rotate(-270deg); /* IE 9 */
+  -webkit-transform   : rotate(-270deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-270deg);
+}
+.questionnaire .scenarios .mountain1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 978px;
+  height              : auto;
+  width               : 269px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.questionnaire .scenarios .underwater1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1213px;
+  height              : auto;
+  width               : 269px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.questionnaire .scenarios .mountainsnow1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 978px;
+  height              : auto;
+  width               : 269px;
+  position            : absolute;
+  margin              : 0;
+  left                : 314px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.questionnaire .scenarios .northernlights1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 978px;
+  height              : auto;
+  width               : 269px;
+  position            : absolute;
+  margin              : 0;
+  left                : 629px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Light", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.questionnaire .button {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2134px;
+  height              : 20px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 449px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.questionnaire .button .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 20px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.questionnaire .button .combinedshape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 16px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.questionnaire .placevideohere {
+  background-color    : rgba(238, 241, 239, 1.0);
+  top                 : 818px;
+  height              : 189px;
+  width               : 322px;
+  position            : absolute;
+  margin              : 0;
+  left                : 418px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+
+  {
+      opacity: 0;
+    }
+
+
+  100%
+
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+
+  {
+      opacity: 0;
+    }
+
+
+  100%
+
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+
+  {
+      opacity: 0;
+    }
+
+
+  100%
+
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+
+  {
+      opacity: 0;
+    }
+
+
+  100%
+
+  {
+      opacity: 1;
+    }
+}
